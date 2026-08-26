@@ -1,4 +1,4 @@
-# Olá, me chamo Lucas
+# Olá, sou o Lucas
 
 Estudante de **Ciência e Tecnologia (BC&T)** na **UFABC**, com pretensão de seguir para **Ciência da Computação**. Técnico em Mecatrônica pelo **SENAI Armando de Arruda Pereira**.
 
