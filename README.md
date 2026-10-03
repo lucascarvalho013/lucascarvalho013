@@ -2,7 +2,7 @@
 
 Estudante de **Bacharaleado Ciência e Tecnologia (BC&T)** na **UFABC**. Técnico em Mecatrônica pelo **SENAI Armando de Arruda Pereira**.
 
-Busco oportunidade nas áreas de **Tecnologia, Automação ou Dados**, aplicando minha base em lógica de programação e o raciocínio analítico desenvolvido na graduação.
+Busco oportunidade nas áreas de **Automação Industrial/Programação de CLP**, aplicando minha base em lógica de programação e o raciocínio analítico desenvolvido na graduação.
 
 ## Formação
 - Graduação em Ciência e Tecnologia (BC&T) — UFABC (2026–2029, em andamento)
@@ -11,8 +11,8 @@ Busco oportunidade nas áreas de **Tecnologia, Automação ou Dados**, aplicando
 ## Conhecimentos e competências
 - **Programação:** C/C++ (lógica de programação, estruturas de dados, manipulação de arquivos)
 - **Automação e Hardware:** CLP/PLC (Linguagem Ladder), sistemas eletropneumáticos, sensores industriais, leitura de diagramas elétricos
-- **Softwares:** FluidSIM, AutoCAD, Autodesk Inventor, Autodesk Fusion
-- **Interesses técnicos:** automação de tarefas rotineiras, lógica aplicada ao desenvolvimento de soluções
+- **Softwares:** FluidSIM, AutoCAD, Autodesk Inventor, Autodesk Fusion, TIA Portal, MasterTool
+- **Interesses técnicos:** Automação Industrial, programação de CLP/PLC, sistemas de controle, IHM e desenvolvimento de soluções automatizadas.
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/lucascarvalho013/)
