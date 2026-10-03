@@ -1,6 +1,6 @@
 # Olá, sou o Lucas
 
-Estudante de **Bacharaleado Ciência e Tecnologia (BC&T)** na **UFABC**, com pretensão de seguir para **Ciência da Computação**. Técnico em Mecatrônica pelo **SENAI Armando de Arruda Pereira**.
+Estudante de **Bacharaleado Ciência e Tecnologia (BC&T)** na **UFABC**. Técnico em Mecatrônica pelo **SENAI Armando de Arruda Pereira**.
 
 Busco oportunidade nas áreas de **Tecnologia, Automação ou Dados**, aplicando minha base em lógica de programação e o raciocínio analítico desenvolvido na graduação.
 
